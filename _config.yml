@@ -1,5 +1,6 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: BRIDGE 
+#subtitle: Bridging Regulatory Science and Medical Imaging Evaluation
+description: Bridging Regulatory Science and Medical Imaging Evaluation 
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -9,7 +10,10 @@ permalink: blog/:title/
 
 # Header Option
 # header: large
-
+# Main - when (09/23/2025) and where (Seoul, Korea), title, short paragraph 
+# About - main topics, organizers, advisory committee
+# Schedule - to be announced
+# Call for submission - instruction (CMT submission website), topics of interest
 sass:
     style: compressed
 
@@ -20,22 +24,24 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: /index.html
+      url:  /home #/index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
+    - title: Schedule
+      url: /schedule
+    - title: Call for submission
+      url: /submission
 
-social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+# social:
+#     github: brianmaierjr
+#     twitter: brianmaierjr
+#     facebook: brianmaierjr
+#     email: brimaidesigns@gmail.com
+#     linkedin: brianmaierjr
+#     youtube: RickAstleyYT
+#     tumblr: i-am-a-fish
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
 
-disqus:
-    shortname: brianmaierjr
+# disqus:
+#     shortname: brianmaierjr
