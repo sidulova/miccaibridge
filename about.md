@@ -12,7 +12,7 @@ title: About Long Haul
                 <!-- First Row: 4 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="./assets/img/picturesforwebsite/Ghada.jpg" alt="Dr. Ghada Zamzmi">
+                        <img src="/assets/img/picturesforwebsite/Ghada.jpg" alt="Dr. Ghada Zamzmi">
                         <p>Dr. Ghada Zamzmi <br>Food and Drug Administration <br>  USA</p>
                     </div>
                     <div class="organizer">
@@ -50,7 +50,7 @@ title: About Long Haul
             <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
             <div class="row">
                     <div class="organizer">
-                        <img src="/assets/img/picturesforwebsite/Aldo.jpg" alt="Dr. Aldo Badano">
+                        <img src="../assets/img/picturesforwebsite/Aldo.jpg" alt="Dr. Aldo Badano">
                         <p>Dr. Aldo Badano <br> Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
