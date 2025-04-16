@@ -12,34 +12,30 @@ title: About Long Haul
                 <!-- First Row: 4 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="_organizers/picturesforwebsite/Ghada.jpg" alt="Dr. Ghada Zamzmi">
+                        <img src="assets/picturesforwebsite/Ghada.jpg" alt="Dr. Ghada Zamzmi">
                         <p>Dr. Ghada Zamzmi <br>Food and Drug Administration <br>  USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="/assets/img/picturesforwebsite/Ravi.jpg" alt="Dr. Ravi Samala">
+                        <img src="assets/img/picturesforwebsite/Ravi.jpg" alt="Dr. Ravi Samala">
                         <p>Dr. Ravi Samala <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="/assets/img/touring.jpg" alt="Dr. Mariia Sidulova">
-                        <p>Dr. Mariia Sidulova <br>Food and Drug Administration <br>  USA</p>
-                    </div>
-                    <div class="organizer">
-                        <img src="/assets/img/touring.jpg" alt="Dr. Amir Khan">
-                        <p>Dr. Amir Khan <br>Food and Drug Administration <br>  USA</p>
+                        <img src="assets/img/touring.jpg" alt="Dr. Mariia Sidulova">
+                        <p>Dr. Mariia Sidulova <br> Medtronic <br>  USA</p>
                     </div>
                 </div>
                 <!-- Second Row: 3 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="/assets/img/picturesforwebsite/Thijs.jpg" alt="Dr. Thijs Kooi">
+                        <img src="assets/img/picturesforwebsite/Thijs.jpg" alt="Dr. Thijs Kooi">
                         <p>Dr. Thijs Kooi <br>  Lunit Inc <br> South Korea</p>
                     </div>
                     <div class="organizer">
-                        <img src="/assets/img/picturesforwebsite/Xiaoxiao.jpg" alt="Dr. Xiaoxiao Li">
+                        <img src="assets/img/picturesforwebsite/Xiaoxiao.jpg" alt="Dr. Xiaoxiao Li">
                         <p>Dr. Xiaoxiao Li <br> University of British Columbia <br> Canada</p>
                     </div>
                     <div class="organizer">
-                        <img src="/assets/img/picturesforwebsite/Annika.jpg" alt="Dr. Annika Reinke">
+                        <img src="assets/img/picturesforwebsite/Annika.jpg" alt="Dr. Annika Reinke">
                         <p>Dr. Annika Reinke <br>  German Cancer Research Center <br>  Germany</p>
                     </div>
                 </div>
