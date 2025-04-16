@@ -12,11 +12,11 @@ title: About Long Haul
                 <!-- First Row: 4 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="./assets/img/Ghada.jpg" alt="Dr. Ghada Zamzmi">
+                        <img src="./assets/img/ghada.jpg" alt="Dr. Ghada Zamzmi">
                         <p>Dr. Ghada Zamzmi <br>Food and Drug Administration <br>  USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Ravi.jpg" alt="Dr. Ravi Samala">
+                        <img src="./assets/img/ravi.jpg" alt="Dr. Ravi Samala">
                         <p>Dr. Ravi Samala <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
@@ -27,15 +27,15 @@ title: About Long Haul
                 <!-- Second Row: 3 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="./assets/img/Thijs.jpg" alt="Dr. Thijs Kooi">
+                        <img src="./assets/img/thijs.jpg" alt="Dr. Thijs Kooi">
                         <p>Dr. Thijs Kooi <br>  Lunit Inc <br> South Korea</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Xiaoxiao.jpg" alt="Dr. Xiaoxiao Li">
+                        <img src="./assets/img/xiaoxiao.jpg" alt="Dr. Xiaoxiao Li">
                         <p>Dr. Xiaoxiao Li <br> University of British Columbia <br> Canada</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Annika.jpg" alt="Dr. Annika Reinke">
+                        <img src="./assets/img/annika.jpg" alt="Dr. Annika Reinke">
                         <p>Dr. Annika Reinke <br>  German Cancer Research Center <br>  Germany</p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ title: About Long Haul
             <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
             <div class="row">
                     <div class="organizer">
-                        <img src="./assets/img/Aldo.jpg" alt="Dr. Aldo Badano">
+                        <img src="./assets/img/aldo.jpg" alt="Dr. Aldo Badano">
                         <p>Dr. Aldo Badano <br> Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
@@ -56,23 +56,23 @@ title: About Long Haul
                 </div>
                     <div class="row">
                     <div class="organizer">
-                        <img src="./assets/img/Ehsan.jpg" alt="Ehsan Adeli">
+                        <img src="./assets/img/ehsan.jpg" alt="Ehsan Adeli">
                         <p>Dr. Ehsan Adeli <br>  Stanford University <br>  USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Marzyeh.jpg" alt="Marzyeh Ghassemi">
+                        <img src="./assets/img/marzyeh.jpg" alt="Marzyeh Ghassemi">
                         <p>Dr. Marzyeh Ghassemi <br>Massachusetts Institute of Technology <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Alejandro.jpg" alt="Alejandro Frangi">
+                        <img src="./assets/img/alejandro.jpg" alt="Alejandro Frangi">
                         <p>Dr. Alejandro Frangi  <br> University of Manchester <br> UK</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Lena.jpg" alt="Lena Maier-Hein">
+                        <img src="./assets/img/lena.jpg" alt="Lena Maier-Hein">
                         <p>Dr. Lena Maier-Hein <br> Heidelberg University <br> Germany</p>
                     </div>
                     <div class="organizer">
-                        <img src="./assets/img/Federica.jpg" alt="Federica Zanca">
+                        <img src="./assets/img/federica.jpg" alt="Federica Zanca">
                         <p>Dr. Federica Zanca <br> European Federation of Organizations for Medical Physics <br> Belgium</p>
                     </div>
                 </div>
