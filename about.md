@@ -6,6 +6,8 @@ title: About Long Haul
 <div class="post" style="text-align: justify;">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop </h3>
     <body>
+    	<img src="./organizers/ghada.jpg" alt="Dr. Ghada Zamzmi">
+    	
         <section>
             <h4 class="pageTitle" style="color: #2c3e50;">Organizers</h4>
             <div class="organizers">
