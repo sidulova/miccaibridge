@@ -20,8 +20,8 @@ title: About Long Haul
                         <p>Dr. Ravi Samala <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="assets/img/touring.jpg">
-                        <p>Dr. Mariia Sidulova <br> Medtronic <br>  USA</p>
+                        <img src="assets/img/touring.jpg"> <br> 
+                        Dr. Mariia Sidulova <br> Medtronic <br>  USA
                     </div>
                 </div>
                 <!-- Second Row: 3 Images -->
