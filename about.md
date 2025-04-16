@@ -12,7 +12,7 @@ title: About Long Haul
                 <!-- First Row: 4 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="assets/img/Ghada.jpg" alt="Dr. Ghada Zamzmi">
+                        <img src="./assets/img/Ghada.jpg" alt="Dr. Ghada Zamzmi">
                         <p>Dr. Ghada Zamzmi <br>Food and Drug Administration <br>  USA</p>
                     </div>
                     <div class="organizer">
@@ -20,7 +20,7 @@ title: About Long Haul
                         <p>Dr. Ravi Samala <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="assets/img/touring.jpg" alt="Dr. Mariia Sidulova">
+                        <img src="assets/img/touring.jpg">
                         <p>Dr. Mariia Sidulova <br> Medtronic <br>  USA</p>
                     </div>
                 </div>
