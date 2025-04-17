@@ -5,12 +5,12 @@ title: About Long Haul
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
     <figure>
-		<img src="/organizers/ghada.jpg" alt=""> 
+		<img src="/organizers/Ghada.jpg" alt=""> 
 		<figcaption>Fig1. - This is an example figcaption</figcaption>
 	</figure>
 	<figure>
-        <img src="{{ '/assets/img/organizers/ravi.jpg' | relative_url }}" alt="Dr. Ravi Samala">
-        <figcaption>Dr. Ravi Samala <br> FDA, USA</figcaption>
+        <img src="/assets/img/Ravi.jpg" alt="Dr. Ravi Samala">
+        <figcaption>Dr. Ravi Samala, FDA, USA</figcaption>
     </figure>
   	<h4 class="pageTitle" style="color: #2c3e50;">Why this Workshop?</h4>
             The accelerating pace of technological advancements in AI, primarily centered on evolving network architectures, 
