@@ -18,10 +18,9 @@ title: About Long Haul
             <div style="margin-top: 8px; text-align: center;">Dr. Mariia Sidulova <br> Medtronic, USA</div>
         </div>
     </div>
-</div>
 	<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Thijs.jpg' | relative_url }}" alt="Ghada" style="width: 100%; height: auto;">
+            <img src="{{ '/assets/img/Thijs.jpg' | relative_url }}" alt="Thijs" style="width: 100%; height: auto;">
             <div style="margin-top: 8px; text-align: center;">Dr. Thijs Kooi <br> Lunit Inc, South Korea</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
@@ -34,5 +33,5 @@ title: About Long Haul
         </div>
     </div>
 
-
+</div>
 
