@@ -33,6 +33,6 @@ title: About Long Haul
             <div style="margin-top: 8px; text-align: center;">Dr. Annika Reinke <br> DKFZ, Germany</div>
         </div>
     </div>
-</div>
+
 
 
