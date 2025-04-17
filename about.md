@@ -36,26 +36,26 @@ title: About Long Haul
     <h4 class="pageTitle" style="color: #2c3e50; margin-top: 30px;">Advisory Board</h4>
         <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Thijs" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Aldo" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Thijs Kooi <br> Lunit Inc, South Korea</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Jana.jpg' | relative_url }}" alt="Xiaoxiao" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Jana.jpg' | relative_url }}" alt="Jana" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Jana Delfino <br> FDA, USA</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Ehsan.jpg' | relative_url }}" alt="Annika" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Ehsan.jpg' | relative_url }}" alt="Ehsan" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Ehsan Adeli <br> Stanford, USA</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Marzyeh.jpg' | relative_url }}" alt="Annika" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Marzyeh.jpg' | relative_url }}" alt="Marzyeh" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Marzyeh Ghassemi <br> MIT, USA</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Lena.jpg' | relative_url }}" alt="Annika" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Lena.jpg' | relative_url }}" alt="Lena" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Lena Maier-Hein <br> Heidelberg University, Germany</div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Federica.jpg' | relative_url }}" alt="Annika" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/Federica.jpg' | relative_url }}" alt="Federica" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Federica Zanca <br> EFOMP, Belgium</div>
         </div>
     </div>
