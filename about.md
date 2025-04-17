@@ -16,19 +16,19 @@ title: About Long Haul
             <div class="row">
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/ghada.jpg' | relative_url }}" alt="Dr. Ghada Zamzmi">
+                        <img src="{{ '/organizers/ghada.jpg' | relative_url }}" alt="Dr. Ghada Zamzmi">
                         <figcaption>Dr. Ghada Zamzmi <br> FDA, USA</figcaption>
                     </figure>
                 </div>
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/ravi.jpg' | relative_url }}" alt="Dr. Ravi Samala">
+                        <img src="{{ '/organizers/ravi.jpg' | relative_url }}" alt="Dr. Ravi Samala">
                         <figcaption>Dr. Ravi Samala <br> FDA, USA</figcaption>
                     </figure>
                 </div>
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/touring.jpg' | relative_url }}" alt="Dr. Mariia Sidulova">
+                        <img src="{{ '/organizers/touring.jpg' | relative_url }}" alt="Dr. Mariia Sidulova">
                         <figcaption>Dr. Mariia Sidulova <br> Medtronic, USA</figcaption>
                     </figure>
                 </div>
@@ -37,19 +37,19 @@ title: About Long Haul
             <div class="row">
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/thijs.jpg' | relative_url }}" alt="Dr. Thijs Kooi">
+                        <img src="{{ '/organizers/thijs.jpg' | relative_url }}" alt="Dr. Thijs Kooi">
                         <figcaption>Dr. Thijs Kooi <br> Lunit Inc, South Korea</figcaption>
                     </figure>
                 </div>
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/xiaoxiao.jpg' | relative_url }}" alt="Dr. Xiaoxiao Li">
+                        <img src="{{ '/organizers/xiaoxiao.jpg' | relative_url }}" alt="Dr. Xiaoxiao Li">
                         <figcaption>Dr. Xiaoxiao Li <br> UBC, Canada</figcaption>
                     </figure>
                 </div>
                 <div class="organizer">
                     <figure>
-                        <img src="{{ '/assets/img/organizers/annika.jpg' | relative_url }}" alt="Dr. Annika Reinke">
+                        <img src="{{ '/organizers/annika.jpg' | relative_url }}" alt="Dr. Annika Reinke">
                         <figcaption>Dr. Annika Reinke <br> DKFZ, Germany</figcaption>
                     </figure>
                 </div>
@@ -62,13 +62,13 @@ title: About Long Haul
         <div class="row">
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/aldo.jpg' | relative_url }}" alt="Dr. Aldo Badano">
+                    <img src="{{ '/organizers/aldo.jpg' | relative_url }}" alt="Dr. Aldo Badano">
                     <figcaption>Dr. Aldo Badano <br> FDA, USA</figcaption>
                 </figure>
             </div>
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/touring.jpg' | relative_url }}" alt="Dr. Jana Delfino">
+                    <img src="{{ '/organizers/touring.jpg' | relative_url }}" alt="Dr. Jana Delfino">
                     <figcaption>Dr. Jana Delfino <br> FDA, USA</figcaption>
                 </figure>
             </div>
@@ -77,31 +77,31 @@ title: About Long Haul
         <div class="row">
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/ehsan.jpg' | relative_url }}" alt="Dr. Ehsan Adeli">
+                    <img src="{{ '/organizers/ehsan.jpg' | relative_url }}" alt="Dr. Ehsan Adeli">
                     <figcaption>Dr. Ehsan Adeli <br> Stanford, USA</figcaption>
                 </figure>
             </div>
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/marzyeh.jpg' | relative_url }}" alt="Dr. Marzyeh Ghassemi">
+                    <img src="{{ '/organizers/marzyeh.jpg' | relative_url }}" alt="Dr. Marzyeh Ghassemi">
                     <figcaption>Dr. Marzyeh Ghassemi <br> MIT, USA</figcaption>
                 </figure>
             </div>
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/alejandro.jpg' | relative_url }}" alt="Dr. Alejandro Frangi">
+                    <img src="{{ '/organizers/alejandro.jpg' | relative_url }}" alt="Dr. Alejandro Frangi">
                     <figcaption>Dr. Alejandro Frangi <br> University of Manchester, UK</figcaption>
                 </figure>
             </div>
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/lena.jpg' | relative_url }}" alt="Dr. Lena Maier-Hein">
+                    <img src="{{ '/organizers/lena.jpg' | relative_url }}" alt="Dr. Lena Maier-Hein">
                     <figcaption>Dr. Lena Maier-Hein <br> Heidelberg University, Germany</figcaption>
                 </figure>
             </div>
             <div class="organizer">
                 <figure>
-                    <img src="{{ '/assets/img/organizers/federica.jpg' | relative_url }}" alt="Dr. Federica Zanca">
+                    <img src="{{ '/organizers/federica.jpg' | relative_url }}" alt="Dr. Federica Zanca">
                     <figcaption>Dr. Federica Zanca <br> EFOMP, Belgium</figcaption>
                 </figure>
             </div>
