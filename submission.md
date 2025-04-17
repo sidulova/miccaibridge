@@ -3,16 +3,18 @@ layout: default
 title: About Long Haul
 ---
 
-<div class="post">
+<div class="post" style="text-align: justify;">
   <h4 class="pageTitle" style="color: #2c3e50;"> Call for Submission </h4>
 Do you wonder how we can rigorously evaluate and effectively regulate rapidly emerging AI technologies?<br>
   Are you working on building evaluation frameworks or tackling the regulatory challenges of deploying AI in clinical practice?<br>
   Are you developing methods to ensure that AI models are not just innovative, but also safe, reliable, and ready for real-world use?<br><br>
 
-  Then <strong>BRIDGE</strong> is the right place for your work!<br>
+  <strong>Then BRIDGE is the right place for your work! </strong>
   This workshop is dedicated to connecting the fast-moving world of AI innovation with the rigorous demands of evaluation and the growing challenges of AI regulation.<br>
   As technologies such as generative AI and autonomous agents continue to evolve at an accelerating pace, regulatory bodies face a pressing question:<br>
-  <em>how can we regulate what we don’t yet know how to evaluate?</em><br><br>
+ <div style="text-align: center; font-style: italic; margin: 10px 0;">
+    how can we regulate what we don’t yet know how to evaluate?
+  </div><br>
 
   BRIDGE offers a collaborative forum for researchers, clinicians, and regulators to explore how we can better align technical development with robust evaluation methods and regulatory standards.<br>
   We welcome contributions that address theoretical, empirical, or conceptual aspects of regulatory science.<br><br>

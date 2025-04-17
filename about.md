@@ -37,7 +37,7 @@ title: About Long Haul
         <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Aldo" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Thijs Kooi <br> Lunit Inc, South Korea</div>
+            <div style="margin-top: 8px; text-align: center;">Dr. Aldo Badano <br> FDA, USA</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Jana.jpg' | relative_url }}" alt="Jana" style="width: 180px; height: 240px; object-fit: cover;">
