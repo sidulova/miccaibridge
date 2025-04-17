@@ -19,3 +19,20 @@ title: About Long Haul
         </div>
     </div>
 </div>
+	<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
+            <img src="{{ '/assets/img/Thijs.jpg' | relative_url }}" alt="Ghada" style="width: 100%; height: auto;">
+            <div style="margin-top: 8px; text-align: center;">Dr. Thijs Kooi <br> Lunit Inc, South Korea</div>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
+            <img src="{{ '/assets/img/Xiaoxiao.jpg' | relative_url }}" alt="Ravi" style="width: 100%; height: auto;">
+            <div style="margin-top: 8px; text-align: center;">Dr. Xiaoxiao Li <br> UBC, Canada</div>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
+            <img src="{{ '/assets/img/Annika.jpg' | relative_url }}" alt="Mariia" style="width: 100%; height: auto;">
+            <div style="margin-top: 8px; text-align: center;">Dr. Annika Reinke <br> DKFZ, Germany</div>
+        </div>
+    </div>
+</div>
+
+
