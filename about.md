@@ -2,17 +2,14 @@
 layout: default
 title: About Long Haul
 ---
----
-layout: default
-title: About Long Haul
----
-
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
     <figure>
-	<img src="/organizers/ghada.jpg" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
+		<img src="/organizers/ghada.jpg" alt=""> 
+		<figcaption>Fig1. - This is an example figcaption</figcaption>
+	</figure>
+
+	<h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
     <section>
         <h4 class="pageTitle" style="color: #2c3e50;">Why this Workshop?</h4>
         <p>
