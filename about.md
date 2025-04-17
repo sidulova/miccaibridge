@@ -12,30 +12,30 @@ title: About Long Haul
                 <!-- First Row: 4 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/ghada.jpg' | relative_url }}" alt="Dr. Ghada Zamzmi">
+                        <img src="{{ '/organizers/ghada.jpg' | relative_url }}" alt="Dr. Ghada Zamzmi">
                         <p>Dr. Ghada Zamzmi <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/ravi.jpg' | relative_url }}" alt="Dr. Ravi Samala">
+                        <img src="{{ '/organizers/ravi.jpg' | relative_url }}" alt="Dr. Ravi Samala">
                         <p>Dr. Ravi Samala <br>Food and Drug Administration <br> USA</p>
                     </div>
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/touring.jpg' | relative_url }}" alt="Dr. Mariia Sidulova">
+                        <img src="{{ '/organizers/touring.jpg' | relative_url }}" alt="Dr. Mariia Sidulova">
                         <p>Dr. Mariia Sidulova <br> Medtronic <br> USA</p>
                     </div>
                 </div>
                 <!-- Second Row: 3 Images -->
                 <div class="row">
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/thijs.jpg' | relative_url }}" alt="Dr. Thijs Kooi">
+                        <img src="{{ '/organizers/thijs.jpg' | relative_url }}" alt="Dr. Thijs Kooi">
                         <p>Dr. Thijs Kooi <br> Lunit Inc <br> South Korea</p>
                     </div>
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/xiaoxiao.jpg' | relative_url }}" alt="Dr. Xiaoxiao Li">
+                        <img src="{{ '/organizers/xiaoxiao.jpg' | relative_url }}" alt="Dr. Xiaoxiao Li">
                         <p>Dr. Xiaoxiao Li <br> University of British Columbia <br> Canada</p>
                     </div>
                     <div class="organizer">
-                        <img src="{{ '/assets/img/organizers/annika.jpg' | relative_url }}" alt="Dr. Annika Reinke">
+                        <img src="{{ '/organizers/annika.jpg' | relative_url }}" alt="Dr. Annika Reinke">
                         <p>Dr. Annika Reinke <br> German Cancer Research Center <br> Germany</p>
                     </div>
                 </div>
@@ -45,33 +45,33 @@ title: About Long Haul
             <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
             <div class="row">
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/aldo.jpg' | relative_url }}" alt="Dr. Aldo Badano">
+                    <img src="{{ '/organizers/aldo.jpg' | relative_url }}" alt="Dr. Aldo Badano">
                     <p>Dr. Aldo Badano <br> Food and Drug Administration <br> USA</p>
                 </div>
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/touring.jpg' | relative_url }}" alt="Dr. Jana Delfino">
+                    <img src="{{ '/organizers/touring.jpg' | relative_url }}" alt="Dr. Jana Delfino">
                     <p>Dr. Jana Delfino <br> Food and Drug Administration <br> USA</p>
                 </div>
             </div>
             <div class="row">
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/ehsan.jpg' | relative_url }}" alt="Dr. Ehsan Adeli">
+                    <img src="{{ '/organizers/ehsan.jpg' | relative_url }}" alt="Dr. Ehsan Adeli">
                     <p>Dr. Ehsan Adeli <br> Stanford University <br> USA</p>
                 </div>
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/marzyeh.jpg' | relative_url }}" alt="Dr. Marzyeh Ghassemi">
+                    <img src="{{ '/organizers/marzyeh.jpg' | relative_url }}" alt="Dr. Marzyeh Ghassemi">
                     <p>Dr. Marzyeh Ghassemi <br> Massachusetts Institute of Technology <br> USA</p>
                 </div>
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/alejandro.jpg' | relative_url }}" alt="Dr. Alejandro Frangi">
+                    <img src="{{ '/organizers/alejandro.jpg' | relative_url }}" alt="Dr. Alejandro Frangi">
                     <p>Dr. Alejandro Frangi <br> University of Manchester <br> UK</p>
                 </div>
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/lena.jpg' | relative_url }}" alt="Dr. Lena Maier-Hein">
+                    <img src="{{ '/organizers/lena.jpg' | relative_url }}" alt="Dr. Lena Maier-Hein">
                     <p>Dr. Lena Maier-Hein <br> Heidelberg University <br> Germany</p>
                 </div>
                 <div class="organizer">
-                    <img src="{{ '/assets/img/organizers/federica.jpg' | relative_url }}" alt="Dr. Federica Zanca">
+                    <img src="{{ '/organizers/federica.jpg' | relative_url }}" alt="Dr. Federica Zanca">
                     <p>Dr. Federica Zanca <br> European Federation of Organizations for Medical Physics <br> Belgium</p>
                 </div>
             </div>
