@@ -50,6 +50,6 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
     <li><strong>Workshop Date:</strong> To Be Confirmed</li>
   </ul><br>
 
-  <h4> Questions?</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
   Reach out to us at: <a href="mailto:BRIDGE-RegSci@gmail.com">BRIDGE-RegSci@gmail.com</a><br>
 </div>
