@@ -34,7 +34,7 @@ title: About Long Haul
         </div>
     </div>
     <h4 class="pageTitle" style="color: #2c3e50; margin-top: 30px;">Advisory Board</h4>
-        <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Thijs" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Thijs Kooi <br> Lunit Inc, South Korea</div>
@@ -59,6 +59,17 @@ title: About Long Haul
             <div style="margin-top: 8px; text-align: center;">Dr. Federica Zanca <br> EFOMP, Belgium</div>
         </div>
     </div>
+    <h4 class="pageTitle" style="color: #2c3e50;">Why this Workshop?</h4>
+            The accelerating pace of technological advancements in AI, primarily centered on evolving network architectures, 
+            is outpacing the development of corresponding evaluation and regulation frameworks. This disconnect creates a 
+            widening gap that not only hinders the effective integration of AI technologies into healthcare but also raises 
+            significant concerns about patient safety. Without robust evaluation and regulatory frameworks, AI models may 
+            fail to meet the stringent reliability and usability standards required for clinical deployment.
+            <br><br>
+            While many workshops at MICCAI have explored important themes such as technical developments, ethics, and 
+            explainability, there is a noticeable gap in addressing challenges related to evaluation, deployment, and 
+            regulation. These challenges, if unaddressed, can significantly impact patient safety and outcomes.
+
 </div>
 
 
