@@ -43,9 +43,7 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
     <li><strong>Empirical Quality (for empirical papers):</strong> Does the work measure or validate new or existing concepts in a robust and rigorous way?</li>
   </ol><br>
 
-  All reviews will follow a <strong>double-blind process</strong>.<br>
-  Please ensure your submission does not include identifying details such as author names, affiliations, or references to unpublished or self-citing work.<br>
-  Please use the official <strong>Springer Conference format</strong>. Word and LaTeX templates will be provided [here].<br><br>
+  All reviews will follow a <strong>double-blind process</strong>. Please ensure your submission does not include identifying details such as author names, affiliations, or references to unpublished or self-citing work. Please use the official <strong>Springer Conference format</strong>. Word and LaTeX templates will be provided [here].<br><br>
 
   <h4> Important Dates (Anywhere on Earth)</h4>
   <ul>
