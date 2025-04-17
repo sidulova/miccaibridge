@@ -18,8 +18,7 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
   </div><br>
 
   BRIDGE offers a collaborative forum for researchers, clinicians, and regulators to explore how we can better align technical development with robust evaluation methods and regulatory standards. We welcome contributions that address theoretical, empirical, or conceptual aspects of regulatory science.<br><br>
-
-  <h4>Topics of Interest:</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;"> Topics of Interest: </h4>
   <ul>
     <li>Proposals for robust evaluation frameworks or regulatory frameworks.</li>
     <li>Papers highlighting the disconnect between AI development, evaluation metrics, and regulatory science.</li>
@@ -34,7 +33,7 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
 
   We welcome any submission at the intersection of medical AI evaluation and regulatory science.<br><br>
 
-  <h4>Submission Evaluation Criteria:</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;"> Submission Evaluation Criteria: </h4>
   <ol>
     <li><strong>Topic Appropriateness:</strong> Does the paper explore evaluation of AI technologies, regulatory science, or related challenges? Is it relevant to patient safety, challenges of real-world deployment, or AI regulatory challenges?</li>
     <li><strong>Clarity and Structure:</strong> Is the paper logically structured, clearly written, and accessible to a multidisciplinary audience?</li>
@@ -43,7 +42,7 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
 
   All reviews will follow a <strong>double-blind process</strong>. Please ensure your submission does not include identifying details such as author names, affiliations, or references to unpublished or self-citing work. Please use the official <strong>Springer Conference format</strong>. Word and LaTeX templates will be provided [here].<br><br>
 
-  <h4> Important Dates (Anywhere on Earth)</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;">  Important Dates (Anywhere on Earth): </h4>
   <ul>
     <li><strong>Full Paper Deadline:</strong> June 25, 2025</li>
     <li><strong>Notification of Acceptance:</strong> July 16, 2025</li>
