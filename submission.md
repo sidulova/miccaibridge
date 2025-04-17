@@ -51,5 +51,5 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
   </ul><br>
 
   <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
-  Reach out to us at: <a href="mailto:BRIDGE-RegSci@gmail.com">BRIDGE-RegSci@gmail.com</a><br>
+  Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
 </div>

@@ -70,6 +70,8 @@ title: About Long Haul
             While many workshops at MICCAI have explored important themes such as technical developments, ethics, and 
             explainability, there is a noticeable gap in addressing challenges related to evaluation, deployment, and 
             regulation. These challenges, if unaddressed, can significantly impact patient safety and outcomes.
+    <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
+  Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
 
 </div>
 
