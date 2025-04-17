@@ -9,6 +9,10 @@ title: About Long Haul
 
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
+    <figure>
+	<img src="/organizers/ghada.jpg" alt=""> 
+	<figcaption>Fig1. - This is an example figcaption</figcaption>
+</figure>
     <section>
         <h4 class="pageTitle" style="color: #2c3e50;">Organizers</h4>
         <div class="organizers">
