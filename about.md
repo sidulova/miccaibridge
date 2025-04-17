@@ -33,7 +33,7 @@ title: About Long Haul
             <div style="margin-top: 8px; text-align: center;">Dr. Annika Reinke <br> DKFZ, Germany</div>
         </div>
     </div>
-    <h4 class="pageTitle" style="color: #2c3e50; margin-top: 30px;">Advisory Board</h4>
+    <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
         <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Aldo" style="width: 180px; height: 240px; object-fit: cover;">
@@ -54,6 +54,7 @@ title: About Long Haul
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Lena.jpg' | relative_url }}" alt="Lena" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Lena Maier-Hein <br> Heidelberg University, Germany</div>
+        </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Federica.jpg' | relative_url }}" alt="Federica" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Federica Zanca <br> EFOMP, Belgium</div>
