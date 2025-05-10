@@ -8,15 +8,11 @@ title: About Long Haul
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Ghada.jpg' | relative_url }}" alt="Ghada" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Ghada Zamzmi <br> FDA, USA</div>
-        </div>
-        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Ravi.jpg' | relative_url }}" alt="Ravi" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Ravi Samala <br> FDA, USA</div>
+            <div style="margin-top: 8px; text-align: center;">Dr. Ghada Zamzmi <br> Heartflow, USA<br> <i>(ex FDA staffer)</i></div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Mariia.jpg' | relative_url }}" alt="Mariia" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Mariia Sidulova <br> Medtronic, USA</div>
+            <div style="margin-top: 8px; text-align: center;">Dr. Mariia Sidulova <br> Medtronic, USA <br> <i>(ex FDA staffer)</i></div>
         </div>
     </div>
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
@@ -34,15 +30,6 @@ title: About Long Haul
         </div>
     </div>
     <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
-        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
-        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Aldo.jpg' | relative_url }}" alt="Aldo" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Aldo Badano <br> FDA, USA</div>
-        </div>
-        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Jana.jpg' | relative_url }}" alt="Jana" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Jana Delfino <br> FDA, USA</div>
-        </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Ehsan.jpg' | relative_url }}" alt="Ehsan" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Ehsan Adeli <br> Stanford, USA</div>
