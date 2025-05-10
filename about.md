@@ -30,6 +30,7 @@ title: About Long Haul
         </div>
     </div>
     <h4 class="pageTitle" style="color: #2c3e50;">Advisory Board</h4>
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Ehsan.jpg' | relative_url }}" alt="Ehsan" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Ehsan Adeli <br> Stanford, USA</div>
