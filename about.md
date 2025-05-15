@@ -45,7 +45,7 @@ title: About Long Haul
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/Federica.jpg' | relative_url }}" alt="Federica" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Federica Zanca <br> EFOMP, Belgium</div>
+            <div style="margin-top: 8px; text-align: center;">Dr. Federica Zanca <br> EISMEA – European Commission, Belgium</div>
         </div>
     </div>
     <h4 class="pageTitle" style="color: #2c3e50;">Why this Workshop?</h4>
