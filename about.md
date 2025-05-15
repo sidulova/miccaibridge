@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About the workshop
 ---
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
@@ -49,15 +49,9 @@ title: About Long Haul
         </div>
     </div>
     <h4 class="pageTitle" style="color: #2c3e50;">Why this Workshop?</h4>
-            The accelerating pace of technological advancements in AI, primarily centered on evolving network architectures, 
-            is outpacing the development of corresponding evaluation and regulation frameworks. This disconnect creates a 
-            widening gap that not only hinders the effective integration of AI technologies into healthcare but also raises 
-            significant concerns about patient safety. Without robust evaluation and regulatory frameworks, AI models may 
-            fail to meet the stringent reliability and usability standards required for clinical deployment.
+            The accelerating pace of AI technological advancements primarily centered on evolving network architectures is outpacing the development of corresponding evaluation and regulatory frameworks. This disconnect creates a widening gap that not only hinders the effective integration of AI into healthcare but also raises serious concerns about patient safety. Without robust evaluation and regulatory mechanisms, AI models may fail to meet the reliability and usability standards required for clinical deployment.
             <br><br>
-            While many workshops at MICCAI have explored important themes such as technical developments, ethics, and 
-            explainability, there is a noticeable gap in addressing challenges related to evaluation, deployment, and 
-            regulation. These challenges, if unaddressed, can significantly impact patient safety and outcomes.
+            While many MICCAI workshops have explored themes such as technical developments, there remains a noticeable gap in addressing evaluation pitfalls, deployment challenges, and regulatory-science issues. If left unaddressed, these challenges can affect patient safety and outcomes.
     <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
   Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
 
