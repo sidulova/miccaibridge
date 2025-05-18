@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 ---
 <div class="post">
-  <h3 class="pageTitle" style="color: #2c3e50;">6.1 Initial Schedule</h3>
+  <h4 class="pageTitle" style="color: #2c3e50;"> Initial Schedule</h4>
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li style="margin-bottom: 16px;">
       <strong>Introduction</strong> (5 minutes)

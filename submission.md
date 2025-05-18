@@ -21,7 +21,7 @@ title: Submission
 
   <!-- Topics of Interest -->
   <section class="topics">
-    <h3 style="color: #2c3e50;">We invite the submission of papers for topics related (but not limited to):</h3>
+    <h4 style="color: #2c3e50;">We invite the submission of papers for topics related (but not limited to):</h4>
     <ul>
       <li>Robust evaluation methods and regulatory frameworks for AI-enabled medical devices</li>
       <li>Studies revealing disconnects between AI development, evaluation metrics, and regulatory requirements</li>
@@ -48,7 +48,7 @@ title: Submission
 
   <!-- Proceedings -->
   <section class="proceedings">
-    <h3 style="color: #2c3e50;">Proceedings</h3>
+    <h4 style="color: #2c3e50;">Proceedings</h4>
     <p>
       Accepted papers will be published in the MICCAI Workshops volume of Springer’s
       <em>Lecture Notes in Computer Science (LNCS)</em> series.
@@ -57,7 +57,7 @@ title: Submission
 
 <!-- Paper Format & Submission -->
 <section class="paper-format">
-  <h3 style="color: #2c3e50;">Paper Format &amp; Submission</h3>
+  <h4 style="color: #2c3e50;">Paper Format &amp; Submission</h4>
   <p>
     Submissions must be anonymized (double-blind), use the official
     <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"
@@ -80,7 +80,7 @@ title: Submission
 
   <!-- Submission Evaluation Criteria -->
   <section class="submission-guidelines">
-    <h3 style="color: #2c3e50;">Submission Evaluation Criteria</h3>
+    <h4 style="color: #2c3e50;">Submission Evaluation Criteria</h4>
     <ol>
       <li><strong>Relevance:</strong> Alignment with AI evaluation, regulatory science, or deployment challenges in healthcare.</li>
       <li><strong>Clarity & Structure:</strong> Logical organization, clear writing, and accessibility to a multidisciplinary audience.</li>
@@ -94,7 +94,7 @@ title: Submission
 
   <!-- Important Dates -->
   <section class="important-dates">
-    <h3 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h3>
+    <h4 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h4>
     <ul>
       <li><strong>Full paper deadline:</strong> June 25, 2025</li>
       <li><strong>Notification of acceptance:</strong> July 16, 2025</li>
@@ -107,7 +107,7 @@ title: Submission
 
   <!-- Contact -->
   <section class="contact">
-    <h3 style="color: #2c3e50;">Questions?</h3>
+    <h4 style="color: #2c3e50;">Questions?</h4>
     <p>Reach us at <a href="mailto:BRIDGERegSci@gmail.com">BRIDGERegSci@gmail.com</a></p>
   </section>
 
