@@ -53,6 +53,7 @@ title: About the workshop
             <br><br>
             While many MICCAI workshops have explored themes such as technical developments, there remains a noticeable gap in addressing evaluation pitfalls, deployment challenges, and regulatory-science issues. If left unaddressed, these challenges can affect patient safety and outcomes.
     <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
+    <br>
   Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
 
 </div>
