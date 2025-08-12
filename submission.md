@@ -96,10 +96,10 @@ title: Submission
   <section class="important-dates">
     <h4 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h4>
     <ul>
-      <li><strong>Full paper deadline:</strong> June 25, 2025</li>
-      <li><strong>Notification of acceptance:</strong> July 16, 2025</li>
-      <li><strong>Camera-ready deadline:</strong> July 30, 2025</li>
-      <li><strong>Workshop date:</strong> TBA</li>
+    <li><strong>Full paper deadline:</strong> <s>June 25, 2025</s> July 7, 2025</li>
+    <li><strong>Notification of acceptance:</strong> <s>July 16, 2025</s> July 25, 2025</li>
+    <li><strong>Camera-ready deadline:</strong> July 30, 2025</li>
+    <li><strong>Workshop date:</strong> TBA</li>
     </ul>
   </section>
 
